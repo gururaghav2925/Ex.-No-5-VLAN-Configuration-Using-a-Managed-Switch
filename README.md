@@ -71,7 +71,9 @@ ________________________________________
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11924f27-cad3-412f-a1a4-b158a569bfda" />
 
 
-•	PC IP settings<br>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9cabd0d-b7e2-4b26-8d77-8d2ac0f7fd13" />
+
 
 
 •	Successful ping between PCs in the same VLAN<br>
